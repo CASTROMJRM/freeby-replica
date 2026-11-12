@@ -1,7 +1,6 @@
 # Proyecto: Freeby Réplica
 
 Réplica de https://freeby.mx/ con WordPress + WooCommerce en local (XAMPP), para la estadía.
-Autor: Juan Manuel Castro Rosas. Responsable del reto: César.
 
 ## Contexto
 - Sitio: `C:\xampp\htdocs\freeby-replica` → http://localhost/freeby-replica
