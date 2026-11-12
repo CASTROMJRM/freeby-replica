@@ -1,0 +1,21 @@
+# Núcleo de WordPress
+/wp-admin/
+/wp-includes/
+/*.php
+!/wp-config-sample.php
+/license.txt
+/readme.html
+wp-config.php
+
+# Plugins y temas descargables
+/wp-content/plugins/
+/wp-content/themes/
+/wp-content/upgrade/
+/wp-content/cache/
+
+# Imágenes (quita esta línea si quieres subirlas)
+/wp-content/uploads/
+
+# Obsidian (configuración personal)
+/docs/.obsidian/workspace*.json
+/wp-content/languages/
